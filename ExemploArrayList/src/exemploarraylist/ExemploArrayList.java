@@ -30,6 +30,7 @@ public class ExemploArrayList {
     agenda.add("Marcos Paqueta;22 2222-2222");
     agenda.add("Maria Antonieta;33 3333-3333");
     agenda.add("Antônio Conselheiro;44 4444-4444");
+    agenda.add("Michelle Hanne;44 4444-4444");
 
     int i;
 
